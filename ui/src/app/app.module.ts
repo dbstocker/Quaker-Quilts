@@ -4,8 +4,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 
 import { AppComponent } from './app.component';
-import { NavComponent } from './nav-component/nav.component';
-import { NavCurrentDisplayComponent } from './nav-component/nav-current-display/nav-current-display.component';
+import { NavComponent } from './nav/nav.component';
+import { NavCurrentDisplayComponent } from './nav/nav-current-display/nav-current-display.component';
 import { ExploreComponent } from './explore/explore.component';
 
 @NgModule({
