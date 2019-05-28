@@ -2,7 +2,7 @@
 
 ## [Bulma](https://bulma.io/)
 
-## [Spectre](https://picturepan2.github.io/)
+## [Spectre](https://picturepan2.github.io/spectre/index.html)
 
 ## [GroundworkCSS](http://groundworkcss.github.io/groundwork/?url=docs/home)
 
