@@ -14,14 +14,14 @@ import { MenuComponent } from './menu/menu.component';
   declarations: [
     AppComponent,
     CarouselComponent,
-    MenuComponent,
-    // FontAwesomeModule
+    MenuComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     NgbModule,
-    FormsModule
+    FormsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
