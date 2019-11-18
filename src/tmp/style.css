@@ -43,6 +43,10 @@ nav {
     margin-left: 0;
   }
 
+  #navbar-toggler {
+    visibility: hidden;
+  }
+
   #page-content-wrapper {
     min-width: 0;
     width: 100%;
