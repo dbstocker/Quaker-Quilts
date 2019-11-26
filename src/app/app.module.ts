@@ -10,13 +10,15 @@ import { AppComponent } from './app.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { MenuComponent } from './navigation/menu/menu.component';
 import { NavbarComponent } from './navigation/navbar/navbar.component';
+import { NavLoginDropdownComponent } from './navigation/nav-login-dropdown/nav-login-dropdown.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CarouselComponent,
     MenuComponent,
-    NavbarComponent
+    NavbarComponent,
+    NavLoginDropdownComponent
   ],
   imports: [
     BrowserModule,
