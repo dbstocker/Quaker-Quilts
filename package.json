@@ -1,7 +1,7 @@
 {
-  "name": "quaker-quilts-ui",
-  "version": "1.0.0",
-  "description": "Angular app for the Quaker Quilts Site and e-Commerce Platform",
+  "name": "bon-air-quilt-ui",
+  "version": "0.1.0",
+  "description": "Angular app for the Bon Air Quilt Site and e-Commerce Platform",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,38 +12,38 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbstocker/quaker-quilts-ui.git"
+    "url": "git+https://github.com/dbstocker/bon-air-quilt-ui.git"
   },
   "author": "David Stocker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dbstocker/quaker-quilts-ui/issues"
+    "url": "https://github.com/dbstocker/bon-air-quilt-ui/issues"
   },
-  "homepage": "https://github.com/dbstocker/quaker-quilts-ui#readme",
+  "homepage": "https://github.com/dbstocker/bon-air-quilt-ui#readme",
   "private": true,
   "dependencies": {
-    "@angular/animations": "~8.2.4",
-    "@angular/common": "~8.2.4",
-    "@angular/compiler": "~8.2.4",
-    "@angular/core": "~8.2.4",
-    "@angular/forms": "~8.2.4",
-    "@angular/platform-browser": "~8.2.4",
-    "@angular/platform-browser-dynamic": "~8.2.4",
-    "@angular/router": "~8.2.4",
+    "@angular/animations": "~8.2.14",
+    "@angular/cli": "^8.3.19",
+    "@angular/common": "~8.2.14",
+    "@angular/compiler": "~8.2.14",
+    "@angular/core": "~8.2.14",
+    "@angular/forms": "~8.2.14",
+    "@angular/platform-browser": "~8.2.14",
+    "@angular/platform-browser-dynamic": "~8.2.14",
+    "@angular/router": "~8.2.14",
     "@fortawesome/angular-fontawesome": "^0.5.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.22",
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
     "@ng-bootstrap/ng-bootstrap": "^5.1.1",
     "bootstrap": "^4.3.1",
-    "rxjs": "~6.4.0",
+    "rxjs": "~6.5.3",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.3",
-    "@angular/cli": "~8.3.3",
-    "@angular/compiler-cli": "~8.2.4",
-    "@angular/language-service": "~8.2.4",
+    "@angular/compiler-cli": "~8.2.14",
+    "@angular/language-service": "~8.2.14",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
